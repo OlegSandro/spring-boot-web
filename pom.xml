@@ -14,4 +14,7 @@
         <version>2.1.6.RELEASE</version>
     </parent>
 
+    <properties>
+    </properties>
+
 </project>
